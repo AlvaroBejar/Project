@@ -1,4 +1,4 @@
-#ParkinsonsMonitor
+## Parkinson Monitor
 
 This repository contains the files used in my third year project.
 "MATLABscript.m" contains the Matlab code used to analyse and quantify tremor in Parkinson's disease patients.
